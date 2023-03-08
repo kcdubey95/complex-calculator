@@ -9,7 +9,6 @@ e.grid(row=0, columnspan=2, rowspan=5, padx=5, pady=5)
 tk.mainloop()
 
 
-
 # function start
 
 def thebutton(number):
